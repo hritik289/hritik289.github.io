@@ -37,21 +37,21 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Bootstrap</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
             <article class='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
             <article class='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Angular</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
           </div>
@@ -63,7 +63,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Node JS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article class='experience__details'>
@@ -77,7 +77,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>PHP</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article class='experience__details'>
@@ -98,7 +98,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Java/Spring</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
           </div>

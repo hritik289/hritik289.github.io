@@ -27,13 +27,13 @@ const About = () => {
             </article>
             <article className='about__card'>
               <FaAward classname='about__icons'/>
-              <h5>Clients</h5>
+              <h5>Skills</h5>
               <small>10+</small>
             </article>
             <article className='about__card'>
               <FaAward classname='about__icons'/>
               <h5>Projects</h5>
-              <small>15+ Completed</small>
+              <small>8+ Completed</small>
             </article>
           </div>
           <p>As a Software Developer pursuing a major in Information Technology from
